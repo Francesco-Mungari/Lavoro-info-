@@ -1,10 +1,10 @@
 Esercitazione Pratica 30 novembre 2016 - 3CI
 Utilizzando le funzioni, implementare un servizio bancario che effettui le seguenti operazioni:
-1.Prelievo
-2.Versamento
-3.Pagamento Bolletta
-4.Visualizzazione saldo
-5.Esci
+\n1.Prelievo
+\n2.Versamento
+\n3.Pagamento Bolletta
+\n4.Visualizzazione saldo
+\n5.Esci
 All’avvio del programma il saldo è 1000.00 euro, e le 4 operazioni devono essere svolte nel
 seguente modo:
 E' presente un codice di riconoscimento che abilita l'accesso al menù. Tale codice è formato
